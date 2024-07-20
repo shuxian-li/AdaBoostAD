@@ -1,0 +1,1 @@
+train_data = cell2mat(C_train'); % 此时最后一列是label
